@@ -1,4 +1,4 @@
-# Hi there, I'm Athulya 👋
+# Hi, I'm Athulya 👋
 
 🎓 **Postgraduate Student in Econometrics**  
 📊 Passionate about **Data Analysis, Economic Modelling, and Machine Learning**  
